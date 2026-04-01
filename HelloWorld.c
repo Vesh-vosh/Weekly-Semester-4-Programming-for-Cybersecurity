@@ -1,6 +1,5 @@
- /* Print a message on the screen */                                               
 #include<stdio.h> 
- int main() {     /* code */ 
+ int main() {     
     printf("Hello World! \n");     
     return 0; 
 }   
