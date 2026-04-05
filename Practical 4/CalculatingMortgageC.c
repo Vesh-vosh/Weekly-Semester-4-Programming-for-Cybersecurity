@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>
 
 double largerSalary(double salary1, double salary2);
